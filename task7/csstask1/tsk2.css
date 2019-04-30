@@ -1,0 +1,15 @@
+body{
+	background-color: grey;
+}
+.text{
+    display: block;
+   border-radius: 35px;
+    width: 300%;
+    margin:200px;
+    padding: 14px;
+    z-index: 0px;
+}
+#div1{
+	color: blue;
+	z-index: 2px;
+}

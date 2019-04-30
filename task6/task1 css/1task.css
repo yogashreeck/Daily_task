@@ -1,0 +1,33 @@
+body{
+background: white;
+}
+h1{
+color: red;
+font-size: 70px;
+font-style: bold;
+}
+table{
+font-size: 35;
+}
+
+#clg1
+{
+color: red;
+font-style: italic;
+font-size: 25px;
+}
+#clg2
+{
+color: black;
+font-size: 25px;
+font-style: italic;}
+#clg3
+{
+color: green;
+font-size: 25px;
+font-style: italic;}
+#clg4
+{
+color: gold;
+font-size: 25px;
+font-style: italic;}

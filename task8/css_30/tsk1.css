@@ -1,0 +1,44 @@
+body{
+	background-color: black;
+	margin: 50px;
+}
+ 
+#div{
+	font-size: 20px;
+	color: rgb(255,255,255);
+	color: white;
+}
+#sing{
+    margin-left: 130px;
+    color: white;
+    border-color:  #3CBC8D;
+}
+p{
+	color: white;
+	font-size: 35px;
+}
+#name{
+	margin-left: 440px;
+	width: 145px;
+	height: 25px;
+}
+#name2{
+	margin-left: 30px;
+	height: 25px;
+}
+#email{
+	margin-left: 440px;
+	width: 355px;
+    height: 25px;
+}
+#password{
+	margin-left: 440px;
+	width: 355px;
+	height: 25px;
+}
+.button{
+	color: rgb(40,100,50);
+	margin-left: 440px;
+	width: 355px;
+	height: 35px;
+}
