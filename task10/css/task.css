@@ -1,0 +1,42 @@
+body{
+	background-color: darkorchid;
+}
+.side{
+	display: flex;
+	background-color: white;
+	flex-direction: column; 
+	margin:21px 450px 230px;
+}
+.side p{
+	color: thistle;
+	padding-left: 140px;
+}
+.Home:hover{
+ background-color: pink;
+ }
+.Home{
+	margin: 20px;
+	padding: 5px;
+	color: darkorchid;
+}
+.About{
+	margin: 20px;
+	padding: 5px;
+}
+.Portfolio{
+	margin: 20px;
+	padding: 5px;
+}
+.contact{
+	margin: 20px;
+	padding: 5px;
+}
+#images{
+	width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-left: 130px;
+}
+.name{
+	margin: 20px 152px 80px 140px;
+}
