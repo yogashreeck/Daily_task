@@ -12,7 +12,7 @@ body{
 	padding-left: 140px;
 }
 .Home:hover{
- background-color: pink;
+  background-color: pink;
  }
 .Home{
 	margin: 20px;
@@ -33,9 +33,9 @@ body{
 }
 #images{
 	width: 100px;
-    height: 100px;
-    border-radius: 100px;
-    margin-left: 130px;
+  height: 100px;
+  border-radius: 100px;
+  margin-left: 130px;
 }
 .name{
 	margin: 20px 152px 80px 140px;
