@@ -12,33 +12,30 @@ body{
 
 .header h1 {
   margin-left: 500px;
-    margin-bottom: 80px;
+  margin-bottom: 80px;
   float: left;
-  
   color: darkmagenta;
-  
   font-style: italic;
 }
-#span
-{
-    font-size: 20px;
-    margin-left: 420px;
-    margin-top: 130px;
+#span{
+  font-size: 20px;
+  margin-left: 420px;
+  margin-top: 130px;
 }
 .page1{
 	padding: 20px;
-    background-color: gold;
-    text-decoration: none;
+  background-color: gold;
+  text-decoration: none;
 }
 .page2{
 	padding: 20px;
-    background-color: gold;
-    text-decoration: none;
+  background-color: gold;
+  text-decoration: none;
 }
 .page3{
 	padding: 20px;
-    background-color: gold;
-    text-decoration: none;
+  background-color: gold;
+  text-decoration: none;
 }
 .images img{
 	padding-top: 80px;
@@ -47,14 +44,13 @@ body{
 	
 }
 #imgp img{
-   width: 100px;
-   height: 150px;
+  width: 100px;
+  height: 150px;
 }
 #imgp p{
 	font-style: italic;
 	color: navy;
-  
-   font-size: 25px;
+  font-size: 25px;
 }
 footer{
 	border:solid;

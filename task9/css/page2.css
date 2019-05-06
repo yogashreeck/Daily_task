@@ -1,4 +1,20 @@
 .flex{
 	display: flex;
-	
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.images1{
+	margin: 50px 50px;
+}
+.images2{
+	margin: 50px 50px;
+}
+.images3{
+	margin: 50px 50px;
+}
+.images4{
+	margin: 50px 50px;
+}
+.images5{
+	margin: 50px 50px;
 }
