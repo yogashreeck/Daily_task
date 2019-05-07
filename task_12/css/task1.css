@@ -1,0 +1,56 @@
+body{
+	margin: 50px 100px 50px 100px;
+}
+.nav1{
+	color: white;
+	background-color: #9475cc;
+	padding: 30px;
+}
+.nav1 a{
+	text-decoration: none;
+	color: navy;
+	padding: 20px;
+	padding-right: 250px;
+}
+.container{
+	display: flex;
+	/*flex-direction: row;*/
+	/*justify-content: flex-start;*/
+	height: 400px;
+}
+.sub1{
+	background-color: #cff1a7;
+/*	flex-basis: 4;*/
+}
+.sub2{
+	background-color: wheat;
+	width: 300px;
+}
+.sub3{
+	background-color: pink;
+	width: 250px;
+}
+footer{
+	background-color: #de8e88;
+	padding: 20px;
+}
+.home1 a{
+	text-decoration: none;
+	color: red;
+  padding: 5px;
+}
+.home1{
+	color: white;
+}
+nav a:hover {
+  background-color: #555;
+  color: white;
+}
+.page{
+	padding-right: 310px;
+}
+#images{
+		display: flex;
+/*	align-self: center;*/
+	justify-content: center;
+}

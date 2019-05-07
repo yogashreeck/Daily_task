@@ -49,26 +49,33 @@ div{
 .name2{
   margin-left: 20px;
   width: 350px;
+  height: 20px;
 }
 .phone2{
   margin-left: 20px;
   width: 350px;
+  height: 20px;
 }
 .email2{
   margin-left: 20px;
   width: 350px;
+  height: 20px;
 }
 .select{
   margin-left: 20px;
   width: 310px;
+  background: white;
+  height: 25px;
 }
 .date2{
   margin-left: 10px;
   width: 286px;
+  height: 20px;
 }
 .drop2{
   margin-left: 10px;
   width: 310px;	
+  height: 20px;
 }
 .car{
 	margin-top: 15px;
