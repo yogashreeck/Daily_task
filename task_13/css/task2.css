@@ -1,0 +1,100 @@
+body{
+	margin: 90px 100px 40px 100px;
+}
+div{
+	display: flex;
+	background-color: pink;
+	justify-content: flex-start;
+}
+.div2{
+  flex-direction: column;
+  margin-top: 20px;
+}
+.name1{
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.phone1{
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+.email1{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+.place1{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+.submit{
+	margin-left: 342px;
+	margin-bottom: 20px;
+	width: 110px;
+  height: 35px;
+  background-color: cadetblue;
+  color: white;
+}
+.date1{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+.drop1{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+.div2{
+	margin-left: 50px;
+}
+.name2{
+  margin-left: 20px;
+  width: 350px;
+  height: 20px;
+}
+.phone2{
+  margin-left: 20px;
+  width: 350px;
+  height: 20px;
+}
+.email2{
+  margin-left: 20px;
+  width: 350px;
+  height: 20px;
+}
+.select{
+  margin-left: 20px;
+  width: 310px;
+  background: white;
+  height: 25px;
+}
+.date2{
+  margin-left: 10px;
+  width: 286px;
+  height: 20px;
+}
+.drop2{
+  margin-left: 10px;
+  width: 310px;	
+  height: 20px;
+}
+.car{
+	margin-top: 15px;
+}
+.van{
+	margin-top: 10px;
+}
+.tuk{
+	margin-top: 10px;
+}
+.extra{
+	margin-top: 25px;
+}
+.baby{
+  margin-top: 15px;
+}
+.chair{
+  margin-top: 10px;
+}
+.tip{
+  margin-top: 10px;
+}
