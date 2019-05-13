@@ -31,6 +31,7 @@ font-size: 10px;
 #cat1{
 grid-row-start: 1;
 grid-row-end: 4;
+background-color: white !important;
 }
 #cat3 , #cat5 , #cat6, #cat7, #cat8,#cat9,#cat10 {
 background-color: #88bb4d;
