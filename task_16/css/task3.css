@@ -2,37 +2,55 @@
 	display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-template-rows: 40px 100px 60px 80px 100px 40px;
-    grid-gap: 15px;
+    grid-gap: 5px;
     justify-content: center;
     margin: 20px 478px 0 517px;
 }
 .grid-container > div{
-  background-color: pink;
   border: dashed;
+  border-color:  #7c9a9c;
 }
 .item1{
 	grid-area: 1/1/1/4;
 	text-align: center;
 	padding: 5px;
+	background-color: #87e7f1;
 }
 .item2{
 	padding: 10px;
+	background-color: #d2cfe6;
+	padding: 28px;
 }
 .item3{
 	grid-area: 2/2/span 2/4;
+	background-color: #ffd24c;
+	padding: 60px;
 }
 .item4{
 	grid-area: 3/1/5/2;
+	background-color: #b6e8b6;
+	padding: 60px 8px 59px 24px;
 }
 .item5{
 	grid-area: 4/2/4/span 2;
+	background-color: #b1b1b1;
+	text-align: center;
+    padding-top: 20px;
 }
 .item6{
 	grid-area: 5/1/5/span 2;
+	background-color: #73cc73;
+	text-align: center;
+    padding-top: 30px;
 }
 .item7{
-
+    background-color: #ffd4dc;
+    padding-top: 31px;
+    padding-left: 6px;
 }
 .item8{
 	grid-area: 6/1/6/span 3;
+	background-color: #ffb62f;
+	text-align: center;
+    padding-top: 10px;
 }

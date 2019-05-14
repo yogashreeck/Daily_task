@@ -4,7 +4,6 @@
     grid-template-rows: repeat(7, auto);
     grid-template-columns: 320px 320px 320px 320px;
     text-align: center;
-    margin-right: 66px;
 }
 .item1{
  grid-area: 1 /1 /1/3;
@@ -68,22 +67,26 @@
 .item16{
 	background-color: #ff9041;
 	height: 54px;
+	width: 400px;
 }
 .item17{
 		background-color: #b393f7;
+		margin-left: 80px;
 }
 .item18{
 		background-color: #ff9041;
+		width: 452px;
 }
 .item19{
 	background-color: #b393f7;
+	margin-left: 130px;
 }
 .item20{
-	grid-area: 9/1/9/3;
+	grid-area: 9/1/9/4;
 	background-color: #f9f986;
 	height: 65px;
 }
 .item21{
-	grid-area: 9/3/9/5;
+	grid-area: 9/4/9/5;
 	background-color: #e477f7;
 }
