@@ -1,18 +1,19 @@
-
-* {
-  box-sizing: border-box;
-}
 body{
 	background-color: grey;
 }
-.text{
-    display: block;
-   border-radius: 35px;
-    width: 300%;
-    margin:200px;
-    padding: 14px;
-   
+.term{
+	width: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    position: relative;
+    border-radius: 20px;
+    height: 30px;
 }
-#div1{
-	color: blue;
+button{
+	position: absolute;
+    top: 208px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+   height: 37px;
+   width: 35px;
 }
